@@ -26,7 +26,7 @@ I Wanted to make Dashboard but nah too bored and to basic . Maybe with the next 
 - Python 3.x
 - pandas, numpy
 - matplotlib, seaborn
-- scikit-learn (LogisticRegressionCV, train_test_split, StandardScaler)
+- scikit-learn (LogisticRegressionCV, train_test_split, StandardScaler, LabelEncoder)
 
 ## Results
 - Both workflows ran end-to-end successfully.
