@@ -3,6 +3,7 @@
 ## Overview
 This repo contains two quick churn prediction workflows built with **LogisticRegressionCV**.  
 The goal was to revisit end-to-end ML steps — data handling, visualization, and modeling — in ~20 minutes.
+I Wanted to make Dashboard but nah too bored and to basic . Maybe with the next model. 
 
 ## Workflows
 ### 1. Bank Customer Churn
